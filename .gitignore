@@ -1,0 +1,20 @@
+node_modules
+
+/test.js
+test.js
+./test.js
+#folders
+
+/build
+/dist
+
+#envirnoment files
+.env
+.DS_Store
+./.DS_Store
+/out
+/Rhema-darwin-x64
+/dist
+ 
+test.js 
+.DS_Store
